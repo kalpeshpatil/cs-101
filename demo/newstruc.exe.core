@@ -1,0 +1,22 @@
+[main] newstruc 1076 (0) exception: trapped!
+[main] newstruc 1076 (0) exception: code 0xC0000005 at 0x41A277
+[main] newstruc 1076 (0) exception: ax 0x7377655E bx 0x7377655E cx 0x7377655E dx 0x247FE1C
+[main] newstruc 1076 (0) exception: si 0x247FE5C di 0x0 bp 0x247FD34 sp 0x247FD30
+[main] newstruc 1076 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] newstruc 1076 (0) stack: Stack trace:
+[main] newstruc 1076 (0) stack: frame 0: sp = 0x247F738, pc = 0x6100A2C3
+[main] newstruc 1076 (0) stack: frame 1: sp = 0x247F774, pc = 0x777ADF81
+[main] newstruc 1076 (0) stack: frame 2: sp = 0x247F798, pc = 0x777ADF53
+[main] newstruc 1076 (0) stack: frame 3: sp = 0x247F864, pc = 0x777ADDBB
+[main] newstruc 1076 (0) stack: frame 4: sp = 0x247FD34, pc = 0x417D48
+[main] newstruc 1076 (0) stack: frame 5: sp = 0x247FD48, pc = 0x417C86
+[main] newstruc 1076 (0) stack: frame 6: sp = 0x247FD60, pc = 0x401B2D
+[main] newstruc 1076 (0) stack: frame 7: sp = 0x247FF0C, pc = 0x61004402
+[main] newstruc 1076 (0) stack: frame 8: sp = 0x247FF54, pc = 0x61004420
+[main] newstruc 1076 (0) stack: frame 9: sp = 0x247FF60, pc = 0x416FCA
+[main] newstruc 1076 (0) stack: frame 10: sp = 0x247FF70, pc = 0x40103A
+[main] newstruc 1076 (0) stack: frame 11: sp = 0x247FF8C, pc = 0x7757495D
+[main] newstruc 1076 (0) stack: frame 12: sp = 0x247FF98, pc = 0x777B98EE
+[main] newstruc 1076 (0) stack: frame 13: sp = 0x247FFDC, pc = 0x777B98C4
+[main] newstruc 1076 (0) stack: frame 14: sp = 0x247FFEC, pc = 0x0
+[main] newstruc 1076 (0) stack: End of stack trace

@@ -1,0 +1,19 @@
+[main] demo07-convert 1000 (0) exception: trapped!
+[main] demo07-convert 1000 (0) exception: code 0xC0000005 at 0x40110D
+[main] demo07-convert 1000 (0) exception: ax 0x1 bx 0x246FEF4 cx 0x407224 dx 0x4142EB
+[main] demo07-convert 1000 (0) exception: si 0x0 di 0x0 bp 0x246FF04 sp 0x246FEDC
+[main] demo07-convert 1000 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] demo07-convert 1000 (0) stack: Stack trace:
+[main] demo07-convert 1000 (1) stack: frame 0: sp = 0x246F8E8, pc = 0x6100A2C3
+[main] demo07-convert 1000 (0) stack: frame 1: sp = 0x246F924, pc = 0x777DF521
+[main] demo07-convert 1000 (0) stack: frame 2: sp = 0x246F948, pc = 0x777DF4F3
+[main] demo07-convert 1000 (0) stack: frame 3: sp = 0x246FA10, pc = 0x777DF36B
+[main] demo07-convert 1000 (0) stack: frame 4: sp = 0x246FF04, pc = 0x61004402
+[main] demo07-convert 1000 (0) stack: frame 5: sp = 0x246FF54, pc = 0x61004420
+[main] demo07-convert 1000 (0) stack: frame 6: sp = 0x246FF60, pc = 0x4131CE
+[main] demo07-convert 1000 (0) stack: frame 7: sp = 0x246FF70, pc = 0x40103A
+[main] demo07-convert 1000 (0) stack: frame 8: sp = 0x246FF8C, pc = 0x75B0919F
+[main] demo07-convert 1000 (0) stack: frame 9: sp = 0x246FF98, pc = 0x777EA8CB
+[main] demo07-convert 1000 (0) stack: frame 10: sp = 0x246FFDC, pc = 0x777EA8A1
+[main] demo07-convert 1000 (0) stack: frame 11: sp = 0x246FFEC, pc = 0x0
+[main] demo07-convert 1000 (0) stack: End of stack trace

@@ -1,0 +1,23 @@
+[main] struct 1000 (0) exception: trapped!
+[main] struct 1000 (0) exception: code 0xC0000005 at 0x41A69E
+[main] struct 1000 (0) exception: ax 0xA031608 bx 0x55A7E4C cx 0xA031E78 dx 0x55A7E4C
+[main] struct 1000 (1) exception: si 0x247FE1C di 0xA031608 bp 0x247FC60 sp 0x247FC60
+[main] struct 1000 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] struct 1000 (0) stack: Stack trace:
+[main] struct 1000 (0) stack: frame 0: sp = 0x247F668, pc = 0x6100A2C3
+[main] struct 1000 (0) stack: frame 1: sp = 0x247F6A4, pc = 0x777ADF81
+[main] struct 1000 (0) stack: frame 2: sp = 0x247F6C8, pc = 0x777ADF53
+[main] struct 1000 (0) stack: frame 3: sp = 0x247F794, pc = 0x777ADDBB
+[main] struct 1000 (0) stack: frame 4: sp = 0x247FC60, pc = 0x418A95
+[main] struct 1000 (0) stack: frame 5: sp = 0x247FC74, pc = 0x417993
+[main] struct 1000 (0) stack: frame 6: sp = 0x247FD10, pc = 0x40141C
+[main] struct 1000 (0) stack: frame 7: sp = 0x247FD5C, pc = 0x401A63
+[main] struct 1000 (0) stack: frame 8: sp = 0x247FF0C, pc = 0x61004402
+[main] struct 1000 (0) stack: frame 9: sp = 0x247FF54, pc = 0x61004420
+[main] struct 1000 (0) stack: frame 10: sp = 0x247FF60, pc = 0x416F4A
+[main] struct 1000 (0) stack: frame 11: sp = 0x247FF70, pc = 0x40103A
+[main] struct 1000 (0) stack: frame 12: sp = 0x247FF8C, pc = 0x7757495D
+[main] struct 1000 (0) stack: frame 13: sp = 0x247FF98, pc = 0x777B98EE
+[main] struct 1000 (0) stack: frame 14: sp = 0x247FFDC, pc = 0x777B98C4
+[main] struct 1000 (0) stack: frame 15: sp = 0x247FFEC, pc = 0x0
+[main] struct 1000 (0) stack: End of stack trace

@@ -1,0 +1,12 @@
+[main] demo15-strings 1022 (0) exception: trapped!
+[main] demo15-strings 1022 (0) exception: code 0xC0000005 at 0x402033
+[main] demo15-strings 1022 (0) exception: ax 0x0 bx 0x247FF20 cx 0xA031E58 dx 0xA031E38
+[main] demo15-strings 1022 (0) exception: si 0x0 di 0x0 bp 0x2006C6B sp 0x247FEF4
+[main] demo15-strings 1022 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] demo15-strings 1022 (1) stack: Stack trace:
+[main] demo15-strings 1022 (0) stack: frame 0: sp = 0x247F900, pc = 0x6100A2C3
+[main] demo15-strings 1022 (0) stack: frame 1: sp = 0x247F93C, pc = 0x777DF521
+[main] demo15-strings 1022 (0) stack: frame 2: sp = 0x247F960, pc = 0x777DF4F3
+[main] demo15-strings 1022 (0) stack: frame 3: sp = 0x247FA28, pc = 0x777DF36B
+[main] demo15-strings 1022 (0) handle_exceptions: Exception: STATUS_ACCESS_VIOLATION
+[main] demo15-strings 1022 (0) handle_exceptions: Error while dumping state (probably corrupted stack)
